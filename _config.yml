@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title : welcome to my website
 header 1 : hello
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>{% block title %}lison{% endblock %}</title>
